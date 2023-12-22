@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/2f/a3/39/2fa3396cc947bf8c6ac92116abbd0b88.jpg);
+    color: chartreuse;
+    font-family: monospace;
+    font-size: 40px;
+}
+.creditcard svg#cardfront {
+  
+    -webkit-box-shadow: 1px 5px 6px 0px rgb(240, 16, 16);
+    box-shadow: 1px 5px 6px 0px rgb(236, 6, 6);
+    border-radius: 22px;
+}
